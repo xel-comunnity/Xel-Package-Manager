@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 App2.vue
+./src/assets/fonts
 
 # Editor directories and files
 .vscode

@@ -1,5 +1,5 @@
 <template>
-  <section class="bg-cyan-200 py-5">
+  <section class="">
     <h1 class="text-[20pt] font-semibold text-center font-[Oxanium] py-5">Requirements & Installations</h1>
     <div class="px-7 font-['Ubuntu_Mono'] py-6 mx-auto max-w-4xl md:px-10">
       <h2 class="text-2xl underline pb-2 font-semibold">Requirements</h2>
