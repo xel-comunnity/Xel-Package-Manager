@@ -7,7 +7,11 @@ export default {
     "node_modules/preline/dist/*.js",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'xel' : '#181823'
+      }
+    },
   },
   plugins: [
     require("flowbite/plugin"),
