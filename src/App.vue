@@ -11,16 +11,19 @@ import Navbar from './components/Navbar.vue';
 </script>
 
 <template>
-  <div class="container max-w-full w-full">
-    <section class="bg-stone-300">
+  <div class="container w-full max-w-full">
+    <section class="bg-sky-700">
       <Navbar />
       <Landing />
     </section>
 
+    <!-- Line separate -->
+    <hr class="border-2 border-white">
+
     <Overview />
-    <Installations />
+    <!-- <Installations />
     <Usage />
-    <Integrations />
+    <Integrations /> -->
     <Contributors />
     <Report />
 
