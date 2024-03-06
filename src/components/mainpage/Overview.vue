@@ -35,7 +35,7 @@
         </div>
       </a>
 
-      <a href="#">
+      <a href="../../xel-skeleton.html">
         <div
           class="px-2 mb-5 text-justify text-white duration-500 border-2 border-white rounded-xl hover:shadow-xl hover:shadow-sky-600 hover:scale-105">
           <h1 class="p-2 text-xl text-center font-semibold">Xel Skeleton</h1>
@@ -50,7 +50,7 @@
         </div>
       </a>
 
-      <a href="#">
+      <a href="../../xel-psr7.html">
         <div
           class="px-2 mb-5 text-justify text-white duration-500 border-2 border-white rounded-xl hover:shadow-xl hover:shadow-sky-600 hover:scale-105">
           <h1 class="p-2 text-xl text-center font-semibold">Xel Psr7 Bridge</h1>
