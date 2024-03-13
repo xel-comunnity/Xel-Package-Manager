@@ -14,4 +14,4 @@ import Footer from './components/Footer.vue';
     <Report />
     <Footer />
   </div>
-</template>./components/Contributors.vue./components/Footer.vue./components/Landing.vue./components/Overview.vue./components/Report.vue
+</template>
