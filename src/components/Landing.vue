@@ -1,5 +1,5 @@
 <script setup>
-import Navbar from '../Navbar.vue';
+import Navbar from './Navbar.vue';
 </script>
 
 <template>
@@ -9,7 +9,7 @@ import Navbar from '../Navbar.vue';
 
     <div class="grid grid-cols-1 mx-auto w-full max-w-screen-lg gap-5 items-center font-['Oxanium'] md:grid-cols-2 md:p-5">
       <div class="font-[Orbitron] mx-auto text-center px-3">
-        <img src="../../assets/xel-logo.png" alt="" />
+        <img src="../assets/img/xel-logo.png" alt="" />
       </div>
       <div class="px-4 py-3 text-white">
         <h1 class="text-center text-[55px] leading-none font-semibold">X-E-L Framework</h1>
@@ -23,6 +23,5 @@ import Navbar from '../Navbar.vue';
         </p>
       </div>
     </div>
-    <hr class="border-2 border-white">
   </section>
 </template>

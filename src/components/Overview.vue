@@ -19,7 +19,8 @@
       </button>
     </form>
 
-    <div class="grid grid-cols-1 max-w-4xl gap-5 px-5 mx-auto font-[Oxanium] md:grid-cols-2 md:px-10">
+    <div class="grid grid-cols-1 max-w-4xl gap-x-7 gap-y-3 px-5 mx-auto font-[Oxanium] md:grid-cols-2 md:px-10">
+      <!-- Async Server -->
       <a href="../../xel-async.html">
         <div
           class="px-2 mb-5 text-justify text-white duration-500 border-2 border-white rounded-xl hover:shadow-xl hover:shadow-sky-600 hover:scale-105">
@@ -35,6 +36,7 @@
         </div>
       </a>
 
+      <!-- Skeleton -->
       <a href="../../xel-skeleton.html">
         <div
           class="px-2 mb-5 text-justify text-white duration-500 border-2 border-white rounded-xl hover:shadow-xl hover:shadow-sky-600 hover:scale-105">
@@ -50,6 +52,7 @@
         </div>
       </a>
 
+      <!-- Psr7 Bridge -->
       <a href="../../xel-psr7.html">
         <div
           class="px-2 mb-5 text-justify text-white duration-500 border-2 border-white rounded-xl hover:shadow-xl hover:shadow-sky-600 hover:scale-105">
@@ -64,10 +67,42 @@
           </p>
         </div>
       </a>
-      <a href="#">
+
+      <!-- Logger -->
+      <a href="../../xel-logger.html">
         <div
           class="px-2 mb-5 text-justify text-white duration-500 border-2 border-white rounded-xl hover:shadow-xl hover:shadow-sky-600 hover:scale-105">
-          <h1 class="p-2 text-xl text-center">Repo 1</h1>
+          <h1 class="p-2 text-xl text-center font-semibold">Xel Logger</h1>
+          <hr class="border-white">
+          <p class="px-2 py-4">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, aspernatur itaque est recusandae a accusantium
+            nobis incidunt sit, in aut expedita obcaecati? Aperiam et enim harum praesentium accusamus minus eaque
+            doloremque,
+            repellendus nobis necessitatibus possimus reiciendis in! Modi quod sint commodi nobis aperiam tempore delectus
+            officiis! Autem ducimus eligendi sit.
+          </p>
+        </div>
+      </a>
+      
+      <!-- Middleware -->
+      <a href="../../xel-logger.html">
+        <div
+          class="px-2 mb-5 text-justify text-white duration-500 border-2 border-white rounded-xl hover:shadow-xl hover:shadow-sky-600 hover:scale-105">
+          <h1 class="p-2 text-xl text-center font-semibold">Xel Middleware</h1>
+          <hr class="border-white">
+          <p class="px-2 py-4">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, aspernatur itaque est recusandae a accusantium
+            nobis incidunt sit, in aut expedita obcaecati? Aperiam et enim harum praesentium accusamus minus eaque
+            doloremque,
+            repellendus nobis necessitatibus possimus reiciendis in! Modi quod sint commodi nobis aperiam tempore delectus
+            officiis! Autem ducimus eligendi sit.
+          </p>
+        </div>
+      </a>
+      <a href="../../xel-logger.html">
+        <div
+          class="px-2 mb-5 text-justify text-white duration-500 border-2 border-white rounded-xl hover:shadow-xl hover:shadow-sky-600 hover:scale-105">
+          <h1 class="p-2 text-xl text-center font-semibold">Xel Simple Dock</h1>
           <hr class="border-white">
           <p class="px-2 py-4">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, aspernatur itaque est recusandae a accusantium

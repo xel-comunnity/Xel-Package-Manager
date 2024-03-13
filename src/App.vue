@@ -1,19 +1,17 @@
 <script setup>
-import Landing from './components/mainpage/Landing.vue'
-import Overview from './components/mainpage/Overview.vue';
-import Installations from './components/mainpage/Installations.vue';
-import Contributors from './components/mainpage/Contributors.vue';
-import Report from './components/mainpage/Report.vue';
-import Footer from './components/mainpage/Footer.vue';
+import Landing from './components/Landing.vue'
+import Overview from './components/Overview.vue';
+import Contributors from './components/Contributors.vue';
+import Report from './components/Report.vue';
+import Footer from './components/Footer.vue';
 </script>
 
 <template>
-  <div class="container w-full max-w-full">
+  <div class="container w-full max-w-full divide-solid divide-y-4 divide-white">
     <Landing />
     <Overview />
-    <Installations />
     <Contributors />
     <Report />
     <Footer />
   </div>
-</template>
+</template>./components/Contributors.vue./components/Footer.vue./components/Landing.vue./components/Overview.vue./components/Report.vue
