@@ -12,7 +12,7 @@ import Navbar from './Navbar.vue';
         <img src="../assets/img/xel-logo.png" alt="" />
       </div>
       <div class="px-4 py-3 text-white">
-        <h1 class="text-center text-[55px] leading-none font-semibold">X-E-L Framework</h1>
+        <h1 class="text-center text-[55px] leading-none font-semibold">Xel-Framework</h1>
         <h2 class="text-4xl font-medium text-center leading-relaxed">Use PHP easily</h2>
         <p class="text-sm text-justify lg:text-base">
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cupiditate,
